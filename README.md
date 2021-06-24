@@ -1,18 +1,18 @@
-# Akan-Names
+# SportSouls 
 
-## Author
+## Authors
 
 [TheCaffeine](https://github.com/TheCaffeine)
 
 ## Description
 
-This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
+This is an e-commerce website where customers can sell memorabilia from local, international athletes across all sports in Africa.
+
 
 ## Screenshot
-<img src="https://github.com/TheCaffeine/Akan-names/blob/bcf2e383dbb3639ade8e93328f30c1ee7582f47f/css/images/Akan%20Screenshot.png width="800px" height="400px">
 
 ## Live Page 
-https://thecaffeine.github.io/Akan-names/
+https://thecaffeine.github.io/SportSouls/
 
 
 ## Technologies Used
@@ -25,8 +25,8 @@ https://thecaffeine.github.io/Akan-names/
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [liamabenger@gmail.com]
+If you have any question or contributions, please email us at [liamabenger@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Abenger Mark**
+* Copyright (c) 2021 **Abenger Mark**
